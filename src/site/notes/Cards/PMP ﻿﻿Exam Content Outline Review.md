@@ -1,0 +1,212 @@
+---
+{"dg-publish":true,"permalink":"/cards/pmp-exam-content-outline-review/"}
+---
+
+up:: [[Cards/PMP prep\|PMP prep]] 
+x:: 
+d:: c
+
+# Domain 1: People
+- Task 1: Manage Conflict
+	- Most inclusive and involves the participation of all people in the conflict. 
+- Task 2: Leading team
+	- Servant Problem-solving
+		- If the team has good input, let them solve it.
+		- Administrative issues are your job to fix.
+	- Leadership Style
+		- The more predictive and regulatory, the more directive the leadership.
+		- Multiple correct solutions -> Let the team fix it 
+	- Inspire and motivate
+		- Work resources (and rewards) vs. Work demands 
+		- Team and social contracts
+	- Influence
+		- Analyze frameworks, politics, and regulations. 
+- Task 3: Support team performance
+	- KPIs vs. real performance
+		- Make sure you are measuring.
+	- Members are having issues and not knowing how to do something.
+		- Train them appropriately
+	- Servant Fetch food and water.
+		- Know what they need
+	- Take all actions needed until their performance improves. 
+- Task 4: Empower Team and Stakeholders
+	- Know your team and their strengths. 
+	- Hold people accountable for their work. 
+	- Give the team the ability to make decisions appropriately.
+- Task 5: Ensure team members and stakeholders are trained. 
+	- What skills do we need?
+	- Determine training options
+	- Allocate resources 
+	- Was the training adequate? 
+	- How do they learn better? Speak with them, then provide the training. 
+	- Expect a question: some kind of problem using a skill, or they are not happy using a tool; the answer is getting them trained. 
+- Task 6: Build team. 
+	- Right [[Cards/Stakeholders\|Stakeholders]] with the right skill for the [[Cards/Requirements\|Requirements]] 
+	- Continuously assess and train to meet needs. 
+	- Knowledge transfer to the next team 
+- Task 7: Address and remove impediments and blocks
+	- Waiting on approvals.
+	- Suppliers are late.
+	- The team does not want to use Agile. 
+		- Determine and prioritize obstacles, network to solve them, and continuously monitor their state and any child issues or bad root cause assessment. 
+- Task 8: Negotiate project agreements 
+	- Negotiating for HR, resources, suppliers, and mediating negotiation. 
+	- What are your bounds for negotiation? What are the objectives and priorities? 
+	- Verify the objectives are met. 
+	- Participate in agreement negotiations mediating. 
+	- Determine a negotiation strategy. 
+- Task 9: Collaborating with [[Cards/Stakeholders\|Stakeholders]] 
+	- Engagement needs of [[Cards/Stakeholders\|Stakeholders]]. [[Cards/Project Stakeholder Management\|Project Stakeholder Management]] 
+	- [[Cards/Stakeholders\|Stakeholders]] need + expectations + project objectives, does it all work well? 
+	- Trust = Transparency + Collaboration 
+	- Exam: Inclusive tools are the answer to the exam questions 
+- Task 10: Build a shared understanding
+	- When, how, and what will get done? Ensure everyone is on the same page on this.
+	- Break down a situation and context, and eliminate assumptions, to understand a root cause. 
+	- Survey all [[Cards/Stakeholders\|Stakeholders]] and come to a consensus. 
+	- Support outcomes of their agreements. 
+	- Are there potential misunderstandings 
+	- *We are trying to achieve clarity here*.
+- Task 11: Engage and support virtual teams 
+	- Examine virtual needs 
+	- Investigate alternatives to virtuality.
+		- Simulate collocation as much as possible. 
+		- Ensure quality of tech and team agreement. 
+	- Options for virtual engagement, like video calls or virtual whiteboards 
+		- Continuously evaluate their effectiveness through team engagement.
+- Task 12: Define team ground rules
+	- Earliest as possible, by the team, agreed to and followed.
+	- The organization has ground rules and communicates them with the external [[Cards/Stakeholders\|Stakeholders]] and team. 
+	- Establish adherence by emulating the rules yourself.
+	- Punish violations. 
+- Task 13: Mentor relevant [[Cards/Stakeholders\|Stakeholders]] 
+	- Allocate time to mentorship: 
+		- Team members on how
+		- [[Cards/Stakeholders\|Stakeholders]] on what or why 
+	- Find the right person to mentor the person when you can't 
+	- Find opportunities to be Yoda. 
+- Task 14: Promote team performance through [[Cards/Emotional Intelligence\|Emotional Intelligence]] 
+	- Personality indicators -> emotional needs of stakeholders. 
+	- Exam question: Discussing something with a person and they are not happy. Solution: Adjust your behavior and communication method to make the stakeholder happy.
+
+# Domain 2: Process
+- Task 1: Execute the project with the urgency required to deliver business value
+	- Can you deliver in increments? 
+	- Can you do iterations and get customer feedback even if you need to do a single delivery? 
+	- Exam question: The customer was not satisfied and didn't give any inputs / The answer is to breakdown the work and deliver small increments to get feedback 
+	- Is the project delivering the most value possible throughout? 
+- Task 2: Manage Communications 
+	- What comms do they need, how often, and what info to include? 
+	- Confirm communication is understood and receive feedback. 
+- Task 3: Assess and manage Risk 
+	- Determine risk management options. 
+		- Where to store them
+		- documentation needs 
+		- how to do Qual and Quant analysis 
+	- Always do risk processing throughout the project. 
+- Task 4: Engage Stakeholders 
+	- Analyze, categorize, and generate a plan to engage them by category and validate it.
+- Task 5. Plan and manage budget and resources 
+	- Bottom-up vs. top-down, what tools and techniques to use, etc
+	- How much money do we need? Lessons Learned + Scope. 
+	- Is there a possibility o going over the budget? Contingency Reserves 
+	- Constantly monitor [[Cards/Earned Value Management\|Earned Value Management]] formulas to see if you are off-budget. If you are, implement a change request to change work or add more budget.
+- Task 6: Plan and manage the schedule 
+	- Learn the process of estimating project tasks.
+		- Benchmarking and historical data
+	- Develop and monitor the schedule, and modify it as needed.
+	- Coordinate resources vs. schedule. 
+- Task 7: Plan and Manage the quality of products and deliverables 
+	- Determine quality standards from stakeholders and store them. 
+	- Recommend options for improvement (Quality assurance - manage quality)
+	- Continuous survey deliverable quality (Control)
+- Task 8: Plan and Manage Scope
+	- Determine and prioritize requirements -> Collect requirements. 
+	- Break down -> WBS, Backlog 
+	- Monitor and validate scope -> Control scope. 
+- Task 9: Integrate project planning activities
+	- All 24 planning processes in the planning process group iteratively until you consolidate, considering dependencies, gaps, and continued business value 
+	- Analyze data collected to make project decisions. 
+	- Determine critical information requirements for project planning, stakeholders, reports, etc.
+- Task 10: Manage changes
+	- 10+ questions on change management 
+		- Understand the traditional change process. 
+		- In agile, anticipate change constantly.
+	- Determine change strategy (Agile vs. Traditional) and response.
+	- Validate change 
+	- Exam: 
+		- Never suppress change 
+			- Assessing change with stakeholders and CCB 
+- Task 11: Plan and manage procurement 
+	- Define requirements: Do we need it? Make vs. buy
+	- Communicate resource requirements 
+	- Manage contracts (which is best for what)
+	- how to select, keep and control the procurement, and deliver the result to us 
+- Task 12: Manage artifacts (Document)
+	- What is it, when making it, where, who, etc 
+	- Make it updated and transparent to all stakeholders. 
+	- continuously assessing the effectiveness of these artifacts for the stakeholders' needs and project
+- Task 13: Determine appropriate methodology and practices 
+	- And determine which parts to use one or the other by assessing needs, complexity, and magnitude.
+	- Recommend execution strategy (Contracts, finance)
+	- Use increments and iterations as much as possible throughout the life cycle.
+	- Exam:
+		- If stakeholder feedback would solve the problem, use incremental methods 
+- Task 14: Establish project governance
+	- Manage the project structure, policies, and procedures to deliver value to project stakeholders (replicate?) 
+	- Determine escalation paths and thresholds. 
+- Task 15: Manage the project issues (Things with negative impact)
+	- When a Risks become an issue
+	- Attack the issue 
+	- Collaborate with the stakeholders to fix the issues.
+		- We don't fix anything. We collaborate with people! 
+- Task 16: Ensure knowledge transfer for project continuity
+	- Transfer between teams, designed to dev to test to implement 
+		- Tell the team their responsibility for this. 
+		- Outline expectations
+		- Confirm approach (lessons learned, PMO?)
+	- Transfer to future into [[Cards/Lessons Learned Register\|Lessons Learned Register]]. 
+- Task 17: Plan and manage closure or transition
+	- Determine criteria for closure (Validate scope)
+	- Validate readiness to transition: Are we ready to move forward? Definition of done... (Are we agreeing to it)
+	- Conclusion activities: Lessons learned, retrospective, release resources, archive project records, end contracts, and financials accounts. 
+
+# Domain 3: Business Environment
+- Task 1: Plan and manage compliance
+	- Most of domain 3 comes from this task. 
+	- Exam: 
+		- The project manager understands the business environment to conduct a project. Different industries follow different regulations. 
+		- A Stakeholder does not want to comply with a regulation \ Answer: Teach them why they should. 
+	- One of the first things you need to do for a project is to understand this business environment (also in getting a job).
+	- Mandatory (No buts)... 
+	- Compliance categories 
+		- Health, safety, financial, public companies, cybersec
+	- Threats to compliance
+		- Team members
+		- Stakeholders
+		- Build in the methods to support compliance. 
+	- Analyze consequences
+		- Warning > Fine > Termination > Jail 
+	- Determine the approach for compliance (Visit the place? Risks, legal, cyber)
+- Task 2: Evaluate and deliver value
+	- Why do we do what we do? Value 
+		- [[Cards/Financial Metrics\|Financial Metrics]] 
+	- What are the [[Cards/Benefits of a Project\|Benefits of a Project]]? Are they identified and still relevant? 
+	- Document agreement on ownership of ongoing benefit realization ([[Benefits Management Plan\|Benefits Management Plan]] -> [[Cards/Project Charter\|Project Charter]])
+	- Verify measurement system for benefits. 
+		- qualitative vs. quantitative 
+	- delivery options to demonstrate value (MVPs, increments, etc.)
+	- Let stakeholders know when there's value gain.
+- Task 3: Evaluate and address external business environment changes for impact on scope
+	- Continuously review > Regulations, technology, geopolitics, market, and industry.
+	- Assess and prioritize the impact on scope or backlog.
+	- Recommend options based on impact on the rest of the project. 
+- Task 4: Support organizational change
+	- Very few organizations will last more than a year. What is the factor? Organizational change culture > Evolution
+		- Develop products and services, 
+		- Improve loyalty, customer satisfaction, etc 
+	- Assess the organizational culture. is it change friendly? 
+	- Evaluate and generate responses for 
+		- Impact of the project on organization
+		- Impact of organizational change in Project 
+	
